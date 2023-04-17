@@ -67,3 +67,7 @@ end
 #gem "dockerfile-rails", ">= 1.2", :group => :development
 
 
+
+gem "dockerfile-rails", ">= 1.2", :group => :development
+
+gem "pg", "~> 1.4"
